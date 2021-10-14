@@ -2,7 +2,7 @@
 
 This project was created with [React Native CLI](https://reactnative.dev/) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) template.
 
-![ComponentsApp](https://github.com/Parterdev/react-native-components/blob/master/movieWishList.gif)
+![ComponentsApp](https://github.com/Parterdev/react-native-movie-whishlist/blob/master/movieWishList.gif)
 
 ## Description
 This project is a new practical item of my mobile code challenges that made with native RN components and:
